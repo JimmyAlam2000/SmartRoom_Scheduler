@@ -398,6 +398,6 @@ int main() {
             cout << "Unknown command. Enter 11 for help.\n";
         }
     }
-
+    cin.get();
     return 0;
 }
